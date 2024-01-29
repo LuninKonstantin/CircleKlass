@@ -1,0 +1,16 @@
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\bin\Debug\net5.0\CircleKlass.exe
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\bin\Debug\net5.0\CircleKlass.deps.json
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\bin\Debug\net5.0\CircleKlass.runtimeconfig.json
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\bin\Debug\net5.0\CircleKlass.runtimeconfig.dev.json
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\bin\Debug\net5.0\CircleKlass.dll
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\bin\Debug\net5.0\ref\CircleKlass.dll
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\bin\Debug\net5.0\CircleKlass.pdb
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\obj\Debug\net5.0\CircleKlass.csproj.AssemblyReference.cache
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\obj\Debug\net5.0\CircleKlass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\obj\Debug\net5.0\CircleKlass.AssemblyInfoInputs.cache
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\obj\Debug\net5.0\CircleKlass.AssemblyInfo.cs
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\obj\Debug\net5.0\CircleKlass.csproj.CoreCompileInputs.cache
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\obj\Debug\net5.0\CircleKlass.dll
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\obj\Debug\net5.0\ref\CircleKlass.dll
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\obj\Debug\net5.0\CircleKlass.pdb
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\CircleKlass\CircleKlass\obj\Debug\net5.0\CircleKlass.genruntimeconfig.cache
